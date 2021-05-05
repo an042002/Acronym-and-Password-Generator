@@ -1,6 +1,6 @@
 /**
 This represents the GUI for the string generator class
-@author Abhiiraj Nikam   Student Id-3701853
+@author Abhiiraj Nikam   
  */
 import javafx.application.Application;
 import javafx.scene.Scene;
