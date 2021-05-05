@@ -1,6 +1,6 @@
 /**
  This class represents the string generator class for generating acronym and passwords
- @author Abhiiraj Nikam   Student Id: 3701853
+ @author Abhiiraj Nikam  
  */
 import java.util.Scanner;
 import java.lang.String;
